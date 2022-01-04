@@ -1,0 +1,14 @@
+.Partners {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: $margin-fix;
+  max-width: $max-width;
+  height: 200px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  background-color: #ececec;
+
+  img {
+    margin: auto;
+  }
+}
